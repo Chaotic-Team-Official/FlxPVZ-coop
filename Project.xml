@@ -40,8 +40,6 @@
 
 	<haxelib name="flixel" />
 	<haxelib name="flixel-addons" />
-	<haxelib name="haxeui-flixel" />
-	<haxelib name="haxeui-core" />
 	
 	<haxelib name="hxcpp-debug-server" if="debug" />
 
